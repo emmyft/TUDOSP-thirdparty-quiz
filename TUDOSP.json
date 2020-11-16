@@ -8,7 +8,7 @@
         "Fruitful collaboration with third parties"
       ],
       "correct": {
-        "index": 2,
+        "index": 2
       },
       "number": 1,
       "prompt": "What is NOT the name of a cross-cutting theme according to the Plan Open Science 2020-2024?"
@@ -47,7 +47,7 @@
         "The ‘TU Delft’ logo is protected by IPR"
       ],
       "correct": {
-        "index": 2, 3, 4
+        "index": 2
       },
       "number": 4,
       "prompt": "Which of the following statements is/are correct?"
