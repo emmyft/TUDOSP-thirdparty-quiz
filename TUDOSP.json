@@ -8,7 +8,7 @@
         "Fruitful collaboration with third parties"
       ],
       "correct": {
-        "index": 3
+        "index": 1
       },
       "number": 1,
       "prompt": "What is NOT the name of a cross-cutting theme according to the Plan Open Science 2020-2024?"
@@ -21,7 +21,7 @@
         "In certain cases it is important that students transfer their IPR to TU Delft"
       ],
       "correct": {
-        "index": 3
+        "index": 1
       },
       "number": 2,
       "prompt": "In September 2020 the VSNU presented the ‘Addendum Richtsnoer IER en Studenten’ (English: ‘Addendum Guidelines IPR -intellectual property rights- and Students.) What is not stated in the Guidelines?"
@@ -34,7 +34,7 @@
         "Ethical Guidelines for universities"
       ],
       "correct": {
-        "index": 3
+        "index": 1
       },
       "number": 3,
       "prompt": "What is AIPPI?"
@@ -47,7 +47,7 @@
         "The ‘TU Delft’ logo is protected by IPR"
       ],
       "correct": {
-        "index": 4
+        "index": 0
       },
       "number": 4,
       "prompt": "Which of the following statements is NOT correct?"
@@ -60,7 +60,7 @@
         "Copyright has to be transferred via a deed"
       ],
       "correct": {
-        "index": 3
+        "index": 1
       },
       "number": 5,
       "prompt": "Which is NOT correct regarding copyright law?"
@@ -73,7 +73,7 @@
         "Authenticity"
       ],
       "correct": {
-        "index": 1
+        "index": 3
       },
       "number": 6,
       "prompt": "What is NOT a principle mentioned in the Netherlands Code of Conduct for Research Integrity?"
@@ -99,7 +99,7 @@
         "All of the above are correct"
       ],
       "correct": {
-        "index": 3
+        "index": 1
       },
       "number": 8,
       "prompt": "For subsidy-projects funded by the European Union, we often use the DESCA Consortium agreement. What is a standard clause in DESCA?"
@@ -125,7 +125,7 @@
         "None of the above answers is correct"
       ],
       "correct": {
-        "index": 4
+        "index": 0
       },
       "number": 10,
       "prompt": "A researcher asks you who he/she should contact with regard to a research contract. His question is if the draft-contract is acceptable for TU Delft. Who should he or she contact as a starting point?"
